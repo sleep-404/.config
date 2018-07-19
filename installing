@@ -1,0 +1,2 @@
+sudo pacman -S feh
+sudo pacman -S mpd ncmpcpp mpc
